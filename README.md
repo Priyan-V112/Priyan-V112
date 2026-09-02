@@ -15,7 +15,6 @@ Currently, I'm focused on becoming a stronger **Software Development Engineer** 
 * 🧠 Strengthening **Data Structures & Algorithms**
 * 💻 Building projects with **Python, JavaScript/TypeScript & React**
 * 🤖 Exploring **Machine Learning, Deep Learning & AI applications**
-* 🌱 Working on **AI-powered agriculture solutions**
 * 🌐 Learning and contributing to **Open Source**
 * 📚 Practicing **LeetCode** consistently
 
