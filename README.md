@@ -1,114 +1,113 @@
 # 👋 Hi, I'm Priyan V
 
-### 💻 CSE (AI & ML) Student | Aspiring Software Development Engineer | AI/ML Enthusiast
+### 💻 CSE (AI & ML) Student | Aspiring Software Development Engineer | Open Source Enthusiast
 
-I'm a Computer Science student passionate about **software development, artificial intelligence, machine learning, and open-source technologies**.
+I'm a Computer Science student passionate about **Software Development, Artificial Intelligence, Machine Learning, and Open Source**.
 
-I enjoy building practical projects, solving **DSA problems**, exploring AI/ML systems, and continuously improving my development skills through hands-on work.
+I enjoy building practical projects, solving **Data Structures & Algorithms** problems, and learning by building and contributing.
 
-Currently, I'm focused on becoming a stronger **Software Development Engineer** while exploring the intersection of **AI and software engineering**.
+Currently, I'm focused on strengthening my **DSA and software engineering fundamentals**, building AI-powered applications, and getting involved in meaningful open-source projects.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🚀 What I'm Currently Doing
 
-* 🧠 Strengthening **Data Structures & Algorithms**
-* 💻 Building projects with **Python, JavaScript/TypeScript & React**
-* 🤖 Exploring **Machine Learning, Deep Learning & AI applications**
-* 🌐 Learning and contributing to **Open Source**
-* 📚 Practicing **LeetCode** consistently
+- 💻 Strengthening **Data Structures & Algorithms**
+- 🧠 Building and exploring **AI/ML applications**
+- 🌐 Developing projects with **React, TypeScript, Node.js & Python**
+- 🤖 Exploring **Deep Learning, CNNs, RAG & LLM applications**
+- 🌍 Starting my **Open Source journey**
+- 🧩 Solving **LeetCode problems** consistently
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🤖 AI / Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🗄️ Databases & Tools
+### 🗄️ Database & Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 🧠 Featured Project
-
-### 🌱 PlantGuard AI
-
-**AI-powered plant disease detection and smart farming assistant.**
-
-PlantGuard AI uses a deep learning model to identify plant diseases from leaf images and provides an interface for interacting with the system.
-
-**Tech:** Python · TensorFlow · Keras · Flask · React · TypeScript
-
-🔗 **Repository:** [PlantGuard AI](https://github.com/Priyan-V112/plantguard-ai)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 My DSA Journey
+## 🌱 Featured Project
 
-I'm consistently practicing **Data Structures & Algorithms** and solving problems on LeetCode.
+### 🌿 PlantGuard AI
 
-### Focus Areas
+An AI-powered plant disease detection system designed to identify plant diseases from leaf images using deep learning.
 
-* Arrays & Strings
-* Linked Lists
-* Stacks & Queues
-* Hashing
-* Binary Search
-* Sorting
-* Trees
-* Graphs
-* Dynamic Programming
+**Tech Stack:** Python · TensorFlow · Keras · Flask · React · TypeScript
 
-🎯 **Goal:** Become strong at problem solving and prepare for software engineering interviews.
+🔗 [View Project](https://github.com/Priyan-V112/plantguard-ai)
 
 ---
 
-## 🌍 Open Source
+## 🧠 DSA Journey
 
-I'm actively learning how to contribute to open-source projects.
+I'm actively working on improving my problem-solving skills through **Data Structures & Algorithms** and regular LeetCode practice.
 
-Currently focusing on:
+### Currently Learning
 
-* 🔎 Finding beginner-friendly issues
-* 🐛 Bug fixes
-* 📚 Documentation improvements
-* ✨ Small feature contributions
-* 🔀 Creating quality Pull Requests
-* 🤝 Collaborating with maintainers and contributors
+- Arrays & Strings
+- Hashing
+- Linked Lists
+- Stacks & Queues
+- Binary Search
+- Sorting Algorithms
+- Trees
+- Graphs
+- Dynamic Programming
 
-I'm especially interested in projects related to:
-
-**AI/ML · Developer Tools · Web Development · Python · JavaScript/TypeScript**
+🎯 **Goal:** Build strong problem-solving skills and prepare for software engineering interviews.
 
 ---
 
-## 📈 GitHub Stats
+## 🌍 Open Source Journey
+
+I'm currently beginning my journey into **open source development**.
+
+My focus is on making meaningful contributions through:
+
+- 🐛 Bug fixes
+- 📚 Documentation improvements
+- ✨ Small features and enhancements
+- 🧪 Testing and improvements
+- 🔀 Quality Pull Requests
+- 🤝 Collaboration with maintainers and contributors
+
+### Interested In
+
+`AI/ML` · `Python` · `JavaScript` · `TypeScript` · `Developer Tools` · `Web Development`
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Priyan-V112&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -120,7 +119,7 @@ I'm especially interested in projects related to:
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Priyan-V112&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Priyan-V112&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -141,14 +140,27 @@ I'm especially interested in projects related to:
 
 ---
 
-## 💡 My Current Goal
+## 🎯 2026 Goals
 
-> **Learn → Build → Contribute → Improve**
-
-I'm working toward becoming a strong **Software Development Engineer** with solid foundations in **DSA, software development, and AI/ML**, while building meaningful projects and contributing to the open-source community.
+- [ ] Strengthen DSA fundamentals
+- [ ] Solve more LeetCode problems
+- [ ] Build meaningful software projects
+- [ ] Improve AI/ML skills
+- [ ] Make my first open-source contributions
+- [ ] Get Pull Requests merged
+- [ ] Collaborate with open-source developers
+- [ ] Continue learning and building
 
 ---
 
-⭐ If you find any of my projects useful, feel free to star them!
+## 💡 My Philosophy
 
-**Thanks for visiting my profile! 🚀**
+> **Learn → Build → Contribute → Improve**
+
+I'm always learning, experimenting, and looking for opportunities to turn ideas into useful software.
+
+---
+
+⭐ Thanks for visiting my profile!
+
+**Let's build something meaningful. 🚀**
